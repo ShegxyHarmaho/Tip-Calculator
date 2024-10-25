@@ -3,6 +3,7 @@ Tip Calculator App
 This is a simple React-based Tip Calculator App that helps users quickly calculate the tip amount based on the bill value and the service quality ratings from both the user and their friend.
 
 
+
 Features
 
 Input Bill Value: Enter the bill amount for easy tip calculation.
@@ -12,6 +13,7 @@ Select Service Quality: Users can choose how they and their friend felt about th
 Automatic Tip Calculation: The app calculates the average tip based on selected ratings and updates the total payable amount.
 
 Reset Option: Reset the inputs to start a new calculation.
+
 
 
 Components Overview
@@ -27,6 +29,7 @@ SelectPercentage: Allows users to select their rating of the service, influencin
 Output: Displays the calculated tip and the total amount to pay.
 
 Reset: Resets all fields to their default state.
+
 
 
 Technologies Used
